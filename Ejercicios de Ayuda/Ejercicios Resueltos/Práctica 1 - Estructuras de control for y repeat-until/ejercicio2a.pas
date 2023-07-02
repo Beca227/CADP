@@ -3,7 +3,7 @@ informe el número de orden, dentro de la secuencia, en el que fue leído. Por e
 misma secuencia:
 3 5 6 2 3 10 98 8 -12 9
 deberá informar: “El mayor número leído fue el 98, en la posición 7”}
-
+{Le falta algo, No funciona?} 
 program ejercicio2a;
 
 var
